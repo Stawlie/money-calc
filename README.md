@@ -1,3 +1,5 @@
+Check it out! https://stawlie.github.io/money-calc/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
